@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Giuseppe Mazzeo, and I'm a Computer Engineering student at Universidade Lusófona de Lisboa. Right now, I'm passionate about learning everything related to software development!
+My name is Giuseppe Nabais Durão Mazzeo, and I'm a Computer Engineering student at Universidade Lusófona de Lisboa. Right now, I'm passionate about learning everything related to software development!
 
 - 🌱 I’m currently learning about Machine Learning with Python and exploring TensorFlow.
 - 🎯 My goal is to work with software development in the future.
