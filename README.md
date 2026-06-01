@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Giuseppe Nabais Durão Mazzeo, and I'm a Computer Engineering student at Universidade Lusófona de Lisboa. Right now, I'm passionate about learning everything related to software development!
+My name is Giuseppe Nabais Durão Mazzeo, and I'm a Computer Engineering student at Universidade Lusófona de Lisboa. Right now, I'm passionate about learning everything related to software development, Web Design and UX/UI Design!
 
-- 🌱 I’m currently learning about Machine Learning with Python and exploring TensorFlow.
+- 🌱 I’m currently learning about UX/UI Design and Web Design.
 - 🎯 My goal is to work with software development in the future.
-- 📖 In my free time, I enjoy reading science fiction books. I'm currently finishing *Dune* by Frank Herbert.
 - 📫 You can reach me at giumazz03@gmail.com
