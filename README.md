@@ -17,7 +17,7 @@
 
 <br>
 
-### Technologies I use
+# Technologies I use
 
 #### Programming Languages
 
