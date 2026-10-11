@@ -12,9 +12,6 @@
 
 <p>I complement my technical knowledge with skills in teamwork, communication, adaptability, responsibility, and organization. I have B2-level English proficiency.</p>
 
-
----
-
 <br>
 
 # Technologies I use
